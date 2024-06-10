@@ -32,4 +32,4 @@
 
 </div>
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=100000&color=F2CF2B&background=FFC1371A&center=true&vCenter=true&random=false&width=1000&lines=Thank+you+!%F0%9F%A4%97" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=10000&color=F2CF2B&background=FFC1371A&center=true&vCenter=true&random=false&width=1000&lines=Thank+you+!%F0%9F%A4%97" alt="Typing SVG" /></a>
